@@ -230,5 +230,14 @@ This repository is maintained for:
 - Programming language practice
 - Problem-solving improvement
 
-Please use the repository responsibly and respect the intellectual property rights of the original problem authors and platforms.
+---
 
+## License
+
+Copyright © 2026 Manikandan S. All Rights Reserved.
+
+This repository is available for viewing, personal learning, educational reference, and note-taking only. Copying, modifying, redistributing, or commercially using the copyright holder's original solutions and materials without prior written permission is prohibited.
+
+Third-party content, including LeetCode problem statements and descriptions, remains subject to its respective rights and terms.
+
+See the [LICENSE](LICENSE) file for details.
